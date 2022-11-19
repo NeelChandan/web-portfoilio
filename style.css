@@ -1,0 +1,11 @@
+body{
+    font-family: 'Lobster Two', cursive;
+font-family: 'Work Sans', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-weight: 600;
+}
+.name-highligter{
+    color: orange;
+}
